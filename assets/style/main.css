@@ -215,6 +215,13 @@ h2.sub-heading{
     cursor: pointer;
 }
 
+.submit: hover {
+    color: var(--accent-color);
+    background-color: var(--secondary-color);
+    border: 2px solid var(--accent-color); /* Border for added contrast */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
 .download-button {
     display: inline-block;
     padding: 0.8rem 2rem;
