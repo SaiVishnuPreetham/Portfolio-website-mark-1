@@ -30,8 +30,6 @@
     --link-font-size: 0.8rem;
     --link-color:var(--gray-text);
     --link-letter-spacing: 0.1rem;
-
-
 }
 .gray_text{
     color: var(--gray-text);
@@ -156,6 +154,7 @@ h2.sub-heading{
     width: 2rem;
     height: 2rem;
 }
+
 /* projects */
 .project_container{
     margin-top: 3rem;
@@ -240,7 +239,6 @@ h2.sub-heading{
     transition: all 0.3s ease; /* Smooth transition for hover effect */
 }
 
-
 .social_links{
     font-size: 0.8rem;
     text-transform: uppercase;
@@ -259,6 +257,5 @@ h2.sub-heading{
         padding: 0 3rem;
     }
 }
-
 
 /* footer */
